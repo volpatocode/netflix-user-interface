@@ -44,7 +44,6 @@ img{
     align-items: center;
     top: 28px;
     left: 56px;
-
 }
 
 .header a{
@@ -215,7 +214,7 @@ img{
     font-size: 0.8rem;
 }
 
-.footer-list__item a:visited,.footer-section__title a:visited, .footer-list__item a:link,.footer-section__title a:link{
+.footer-list__item a:visited,.footer-section__title a:visited,.footer-list__item a:link,.footer-section__title a:link{
     color: #757575;
 
 }
@@ -229,4 +228,3 @@ img{
     font-size: 0.8rem;
     margin-bottom: 50px;
 }
-
